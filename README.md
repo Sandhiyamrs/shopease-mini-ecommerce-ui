@@ -27,6 +27,21 @@ Ideal for demonstrating frontend skills or integrating with a backend in future 
 
 ---
 
+## 📸 Project Screenshots
+
+1.🏠 Home Page
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
+
+
+2.ℹ️ Cart Page
+<p align="center">
+  <img src="assets/Cart.jpg" width="800"/>
+</p>
+
+---
+
 ## 🗂️ Frontend Pages
 | Page | Description |
 |------|-------------|
